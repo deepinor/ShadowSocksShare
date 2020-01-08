@@ -146,7 +146,7 @@ def gen_uri(servers):
                 ])
                 ssr_decoded += '/?remarks={remarks}&group={group}'.format(
                     remarks=encode(server['remarks']),
-                    group=encode("Charles Xu"),
+                    group=encode("ssr_luck"),
                 )
 
                 ssr_uri = 'ssr://{endoced}'.format(
@@ -163,7 +163,7 @@ def gen_uri(servers):
                     encode(server['password'])
                 ]])
                 appendix = [(key, server[key]) for key in ['obfsparam', 'protoparam', 'remarks'] if key in server]
-                appendix.append(('group', 'Charles Xu'))
+                appendix.append(('group', 'ssr_luck'))
                 appendix_str = '&'.join(['{key}={val}'.format(
                     key=item[0],
                     val=encode(item[1])
@@ -184,7 +184,7 @@ def gen_uri(servers):
                 "local_address": "127.0.0.1",
                 "local_port": 1080,
                 "password": server['password'],
-                "group": "Charles Xu"
+                "group": "ssr_luck"
             }
             if 'ssr_protocol' in server:
                 server['protocol'] = server['ssr_protocol']
