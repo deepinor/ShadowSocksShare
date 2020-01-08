@@ -50,10 +50,9 @@
 5. **每小时自动更新爬虫数据**
 6. 自动检测 ssr 账号可用性
 
-示例网站：[ss.pythonic.life](http://ss.pythonic.life)
-备用地址：[ssr.pythonic.life](http://ssr.pythonic.life)
+示例网站：https://airport-luck.herokuapp.com
+rss:订阅 https://node2.feed43.com/airport-luck.xml
 
-博客连接：[the0demiurge.blogspot.jp](https://the0demiurge.blogspot.jp/2017/07/shadowsocks.html)
 
 ### 为该项目贡献力量：
 
