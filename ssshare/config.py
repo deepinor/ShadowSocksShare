@@ -19,6 +19,7 @@ url = [
     'https://viencoding.com/ss-ssr-share',
     'https://www.facebook.com/543658049331222/posts/910356955994661',
     'https://shadowsocks-share.herokuapp.com',
+    'https://jichangdaquan.com/node/429.html',
     
 ]
 
