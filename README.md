@@ -54,25 +54,7 @@
 rss:订阅 https://node2.feed43.com/airport-luck.xml
 
 
-### 为该项目贡献力量：
-
-本项目的作者和用户们为您的所有贡献表示由衷的感谢！
-
-为本项目添砖加瓦，您可以：
-
-**以非技术方式：**
-
-1. 反馈建议：到[这个页面](https://github.com/the0demiurge/ShadowSocksShare/issues)提交Issue
-2. 提供比较好的 ss(r) 分享链接
-3. 捐助 ssr 账号的来源网站
-4. 捐助我：如果你已经可以上 Google，打开[示例网站](http://ss.pythonic.life)并拖到最后，就能看到微信打赏二维码：）
-5. Fork本项目
-6. 向信得过的人宣传本项目
-
-**以技术类方式：**
-
-1. 阅读[项目贡献指南](https://github.com/the0demiurge/ShadowSocksShare/wiki)并按照项目贡献指南为本项目修改源
-2. 修改项目源码并提交 PR
+### Forked from https://github.com/the0demiurge/ShadowSocksShare/wiki)
 
 ## 用法：
 
@@ -126,6 +108,3 @@ rss:订阅 https://node2.feed43.com/airport-luck.xml
 1. xxx 必须为你的项目名称且必须全部为小写
 2. 必须添加付款方式（信用卡）才能部署，不然会报错
 
-```
-ERROR: (gcloud.app.deploy) Error [400] Operation does not satisfy the following requirements: billing-enabled {Billing must be enabled for activation of service '' in project 'shadowsocksshare' to proceed., https://console.developers.google.com/project/shadowsocksshare/settings}
-```
