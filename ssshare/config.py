@@ -38,6 +38,4 @@ subscriptions = [
     'https://ssr-luck.netlify.com',
     'https://shadowsocks-share.herokuapp.com/subscribe?valid=0',
     'https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub',
-    'https://heikejilaila.xyz/keji.php?id=c134513fcd69616d4c9fc9fdf4339846',
-    'https://heikejilaila.xyz/keji.php?id=22c7b9fdda20bb7405b270cd75971f66',
 ]
