@@ -19,7 +19,7 @@ DOMAIN = 'http://ss.pythonic.life'
 DISQUS_IDENTIFIER = 'shadowsocksshare'
 
 
-servers = [{'data': [], 'info': {'message': '爬虫正在努力工作，十分钟后再回来吧：）', 'url': 'https://github.com/deepinor/ShadowSocksShare', 'name': '(*^__^*)…'}}]
+servers = [{'data': [], 'info': {'message': '爬虫正在努力工作，十分钟后再回来吧：）', 'url': 'https://github.com/deepinor/ShadowSocksShare', 'name': '项目地址'}}]
 curtime = time.ctime()
 
 encoded = ''
